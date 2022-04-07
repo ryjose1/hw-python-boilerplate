@@ -2,8 +2,7 @@
 
 Barebones Python project to serve as a foundation reference
 
-## Building
-
 ## Running
-
-## Usage
+```bash
+python main.py
+```
